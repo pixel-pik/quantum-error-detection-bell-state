@@ -16,8 +16,8 @@ Fidelity order -
 Ideal>protected>noisy
 
 # Architecture and Parameter Documentation
-Qubit count - 3
-Gates used - H(Hadamard), CNOT(Controlled-NOT)
-Execution shots - 1000
-Backend Name & Version - qiskit_aer.AerSimulator
-Protection method - Post-selection filtering
+* Qubit count - 3
+* Gates used - H(Hadamard), CNOT(Controlled-NOT)
+* Execution shots - 1000
+* Backend Name & Version - qiskit_aer.AerSimulator
+* Protection method - Post-selection filtering
